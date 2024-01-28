@@ -7,4 +7,8 @@ sdas
 asdddddddddddddas
 
 
-asd
+asEADME.txt
+# 输出：
+Learning Git: New File.
+test line 1.
+asdffff
